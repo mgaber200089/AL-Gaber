@@ -20,7 +20,7 @@
   }
   
   #myUL li a {
-    border: 7px solid rgb(18, 29, 17);
+    border: 7px solid #0f0f03;
     margin-top: -1px; /* Prevent double borders */
     background-color: rgb(20, 20, 20);
     padding: 12px;
@@ -32,5 +32,5 @@
   }
   
   #myUL li a:hover:not(.header) {
-    background-color: rgb(19, 39, 45);
+    background-color: #edb4194d;
   }
