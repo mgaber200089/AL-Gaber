@@ -20,7 +20,7 @@
   }
   
   #myUL li a {
-    border: 7px solid #0f0f03;
+    border: 7px solid rgb(20, 20, 20);
     margin-top: -1px; /* Prevent double borders */
     background-color: rgb(20, 20, 20);
     padding: 12px;
